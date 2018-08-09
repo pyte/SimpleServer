@@ -1,3 +1,8 @@
+# File : sokc.py
+# Auther : Anurodh Vishwakarma
+# Email : anurodh892@gmail.com
+# Facebook : http://www.facebook.com/anurodhv
+
 try:
     import socket
     import os
